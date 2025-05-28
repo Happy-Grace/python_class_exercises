@@ -1,0 +1,2 @@
+This is a new file 
+ Welcome to File Handling in Python Class.
